@@ -13,7 +13,7 @@ var str1 = '// webpack1_';
 var str2 = '// webpack2_';
 var str3 = '/*';
 var str4 = '*/';
-
+var str5 = '#';
 /*
 *
 * Gulp tasks to build dist and bundle versions.
